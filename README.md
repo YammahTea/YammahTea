@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software engineer student at Al-Balqa Applied University<br>I love rust and python 🦀🐍<br>I look forward to collaborate on anything useful<br>I dream of becoming a backend engineer/cloud engineer<br><br>* I also look for help in improving my code, mainly in my current repo "ecommerce_backend" 🤝 * <br>* And maybe you can checkout the stuff I built too *
+I'm a software engineer student at Al-Balqa Applied University<br>I love rust and python 🦀🐍<br>I look forward to collaborate on anything useful<br>I dream of becoming a backend engineer/cloud engineer<br><br>**I also look for help in improving my code, mainly in my current repo "ecommerce_backend" 🤝** <br> *And maybe you can checkout the stuff I built too...*
 
 
 ## 🌐 Socials:
